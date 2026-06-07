@@ -1,0 +1,19 @@
+Nama Anggota 1 (Kornelius Jeviko Lahi)
+- Membuat repository GitHub
+- Konfigurasi Docker Compose
+
+Nama Anggota 2 (Yohanes B. Lasa)
+- Instalasi WordPress
+- Pengujian Database
+
+Nama Anggota 3 (Markus Gunawan Ambut)
+- Dokumentasi
+- Pengambilan Screenshot
+
+Nama Anggota 4 (Yohanes Jehuma)
+- Pengujian Docker Network
+- Verifikasi Persistent Volume
+
+Nama Anggota 5 (Leonardus M.P.A. Sambut)
+- Penyusunan Laporan
+- Penyusunan README
